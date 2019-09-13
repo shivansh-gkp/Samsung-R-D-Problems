@@ -1,3 +1,4 @@
+import java.util.*;
 public class coor {
 int x;
 int y;
@@ -95,7 +96,6 @@ public class queue {
 		}
 	}
 }
-import java.util.*;
 public class endo
 {
 	queue q;

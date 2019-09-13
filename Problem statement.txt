@@ -1,4 +1,4 @@
-link to problem:- https://www.hackerearth.com/problem/algorithm/question-7-4/
+link to the problem:- https://www.hackerearth.com/problem/algorithm/question-7-4/
 Anurag, a CSE student from MANIT developed an endoscope to explore inner part of ruined water pipes. It is possible explore the inner part of the pipes putting the endoscope into a certain part of the pipe. The endoscope can be moved in the pipes only. Meanwhile, when the pipes are connected to each other, if the length of the endoscope is long enough to explore, it is able to inspect the connected pipe. However, we cannot observe every pipe because the length of the endoscope is limited.
 When the map of the ground water pipe, the location where the endoscope to out in, and the length of the endoscope is given, calculate the number of pipe which are available to explore. Length of endoscope means the range upto which endoscope can explore. There are seven kindof pipes in the shape of T , + etc.
 
